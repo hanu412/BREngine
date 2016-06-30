@@ -1,0 +1,6 @@
+{
+  "name": "Brengine",
+  "tagline": "Simple Business Rule Engine",
+  "body": "# Simple Business Rule Engine\r\n\r\n\r\n\r\nThis is a simple business rule engine. It aims to provide a convineint way to write one's own rules and validate the business objects.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
